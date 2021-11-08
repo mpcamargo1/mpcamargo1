@@ -16,7 +16,7 @@
   <a href="https://twitter.com/marcospcamargo1"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
 
-
+![Snake animation](https://github.com/mpcamargo1/mpcamargo1/blob/output/github-contribution-grid-snake.svg)
 <!---
 mpcamargo1/mpcamargo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
