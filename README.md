@@ -1,10 +1,10 @@
 - 👋 Olá, eu sou @mpcamargo1
-- 👀 Atualmente, meu foco é ...
+- 👀 Atualmente, sou mestrando em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
 
 <div>
   <a href="https://github.com/mpcamargo1">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mpcamargo1&show_icons=true&theme=tokyonight">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpcamargo1&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpcamargo1&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpcamargo1&layout=compact">
 </div>
 
 <div>
