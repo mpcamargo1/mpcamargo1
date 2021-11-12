@@ -1,3 +1,4 @@
+## Sobre mim
 - 👋 Olá, eu sou Marcos Camargo
 - 👀 Atualmente, sou mestrando em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
 
@@ -15,7 +16,7 @@
   <a href="https://twitter.com/marcospcamargo1"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
     
-### Conhecimentos em
+## Conhecimentos em
   <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -28,7 +29,7 @@
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </div>
     
- ### OS
+ ## OS
   <div>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">   
