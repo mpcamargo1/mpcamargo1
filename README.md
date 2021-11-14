@@ -1,5 +1,5 @@
 ## Sobre mim
-- 🧒🏻 Olá, eu sou Marcos Camargo
+- 🧒🏻 Olá, sou Marcos Camargo
 - 👀 Atualmente, sou mestrando em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
 - 📖 Participação em artigos: 'A Intrusion Detection System for Web-Based Attacks Using IBM Watson' e 'A Self-protecting Approach for Service-oriented Mobile Applications'
 
