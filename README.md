@@ -17,7 +17,7 @@
   <a href="https://twitter.com/marcospcamargo1"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
     
-## Conhecimentos em
+## Linguagens e Ferramentas
   <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
