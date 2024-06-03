@@ -13,11 +13,12 @@
 ## Contatos
   
 <div>
-  <a href="mailto:marcoscamargooliveiraman@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="mailto:mp.camargo@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   <a href="https://linkedin.com/in/mpcamargo1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://twitter.com/marcospcamargo1"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
+
+## Linguagens
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mpcamargo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 ## Linguagens e Ferramentas
   <div>
@@ -31,15 +32,8 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </div>
-    
- ## OS
-  <div>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">   
-  </div>
 
 ![Snake animation](https://github.com/mpcamargo1/mpcamargo1/blob/output/github-contribution-grid-snake.svg)
-    
     
 <!---
 mpcamargo1/mpcamargo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
