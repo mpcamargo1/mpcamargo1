@@ -1,9 +1,12 @@
 ## Sobre mim
 - 🧒🏻 Olá, sou Marcos Camargo
 - 👀 Atualmente, trabalho como Desenvolvedor Java.
-- Bacharelado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP)
-- Mestrado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
-- 📖 Participação em artigos: 'A Intrusion Detection System for Web-Based Attacks Using IBM Watson' e 'A Self-protecting Approach for Service-oriented Mobile Applications'
+- 🎓 Bacharelado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP)
+- 🎓 Mestrado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
+- 📖 Participação em artigos:
+  - <i> RA4Self-CPS: A Reference Architecture for Self-adaptive Cyber-Physical Systems</i>
+  - <i> A Intrusion Detection System for Web-Based Attacks Using IBM Watson</i>
+  - <i> A Self-protecting Approach for Service-oriented Mobile Applications</i>
 
 <div>
   <a href="https://github.com/mpcamargo1">
