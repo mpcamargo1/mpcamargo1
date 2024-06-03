@@ -4,10 +4,11 @@
 - 🎓 Bacharelado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP)
 - 🎓 Mestrado em Ciência da Computação na Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) 
 - 📖 Participação em artigos:
-  - <i> RA4Self-CPS: A Reference Architecture for Self-adaptive Cyber-Physical Systems</i>
-  - <i> A Intrusion Detection System for Web-Based Attacks Using IBM Watson</i>
-  - <i> A Self-protecting Approach for Service-oriented Mobile Applications</i>
+  - [<i> RA4Self-CPS: A Reference Architecture for Self-adaptive Cyber-Physical Systems</i>](https://ieeexplore.ieee.org/document/10412036)  
+  - [<i> A Intrusion Detection System for Web-Based Attacks Using IBM Watson</i>](https://ieeexplore.ieee.org/document/9661457)
+  - [<i> A Self-protecting Approach for Service-oriented Mobile Applications</i>](https://www.researchgate.net/publication/351352704_A_Self-protecting_Approach_for_Service-oriented_Mobile_Applications)
 
+## GitHub Stats
 <div>
   <a href="https://github.com/mpcamargo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpcamargo1&show_icons=true&theme=tokyonight">
