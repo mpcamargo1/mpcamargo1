@@ -8,11 +8,6 @@
   - [<i> A Intrusion Detection System for Web-Based Attacks Using IBM Watson</i>](https://ieeexplore.ieee.org/document/9661457)
   - [<i> A Self-protecting Approach for Service-oriented Mobile Applications</i>](https://www.researchgate.net/publication/351352704_A_Self-protecting_Approach_for_Service-oriented_Mobile_Applications)
 
-## GitHub Stats
-<div>
-  <a href="https://github.com/mpcamargo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpcamargo1&show_icons=true&theme=tokyonight">
-</div>
   
 ## Contatos
   
@@ -37,7 +32,6 @@
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </div>
 
-![Snake animation](https://github.com/mpcamargo1/mpcamargo1/blob/output/github-contribution-grid-snake.svg)
     
 <!---
 mpcamargo1/mpcamargo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
