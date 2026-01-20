@@ -31,6 +31,7 @@ Desenvolvedor Java focado em sistemas robustos e pesquisador na área de Ciênci
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
+
 ---
 
 ### 📫 Conecte-se comigo
